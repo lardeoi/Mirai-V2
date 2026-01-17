@@ -1,2 +1,101 @@
-Vào fb lấy app nha
-Cao Chung Đạt
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261575327683934%22%3A%223oT6ZKnw%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.569Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "datr",
+		"value": "KglraQ0tWsi6A4zr46PePfab",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "sb",
+		"value": "KglraXTzqWcVcim8AVSev_-6",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61575327683934",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "xs",
+		"value": "48%3AaT3D-lzjGAaOvQ%3A2%3A1768622394%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "fr",
+		"value": "0OZQFPHGvebr5FWVW.AWeTAmO_RrTVaEsHm7cSIGs0lUkTpAa3YtoJROLBuFGPa6wQ6mQ.Bpawkq..AAA.0.0.Bpawk_.AWfPSRN_21dxHchNid4DpfMSW90",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "locale",
+		"value": "vi_VN",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "pas",
+		"value": "61575327683934%3Agt8Ydji7tT",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3055%3Btimestamp%3A1768622399",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "100436036%3BT%3A29477040",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B612x313x3.4521594047546387",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-17T07:24:49.577Z",
+		"lastAccessed": "2026-01-17T07:24:49.577Z"
+	}
+]
