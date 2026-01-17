@@ -15,7 +15,7 @@ module.exports.run = async function({ api, event, Users }) {
   const { PREFIX } = global.config;
 	if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
 		api.changeNickname(`[ ${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? "Made by CatalizCS and SpermLord" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
-          	api.sendMessage(`⎝̐̈⎛̐̈•̐̈‿̐̈•̐̈⎞̐̈⎠̐̈⋙ 𝓑𝓸𝓚 ⋘⎝̐̈⎛̐̈•̐̈‿̐̈•̐̈⎞̐̈⎠̐̈\n⋙ 𝓚𝓔̂́𝓣 𝓝𝓞̂́𝓘 𝓣𝓗𝓐̀𝓝𝓗 𝓒𝓞̂𝓝𝓖  ⋘\n\n📩🍁 𝐁𝐎𝐓 𝐕𝐈𝐏 🍁📩\n➽ 𝑩𝒐𝒕 Đ𝒄 Đ𝒊𝒆̂̀𝒖 𝑯𝒂̀𝒏𝒉 𝑩𝒚 ミ★𝐂𝐇𝐔𝐍𝐆 𝐃𝐀̣𝐓★彡✔\n🌺𝑪𝒉𝒖́𝒄 𝑩𝒂̣𝒏 𝑺𝒂̀𝒊 𝑩𝒐𝒕 𝑽𝒖𝒊 𝑽𝒆̉ ❤`, threadID);
+          	api.sendMessage(`⎝̐̈⎛̐̈•̐̈‿̐̈•̐̈⎞̐̈⎠̐̈⋙ 𝘽𝙤𝙩 𝓣𝓮𝓰𝓴🌱 ⋘⎝̐̈⎛̐̈•̐̈‿̐̈•̐̈⎞̐̈⎠̐̈\n⋙ 𝓚𝓔̂́𝓣 𝓝𝓞̂́𝓘 𝓣𝓗𝓐̀𝓝𝓗 𝓒𝓞̂𝓝𝓖  ⋘\n\n📩🍁 𝐁𝐎𝐓 𝐕𝐈𝐏 🍁📩\n➽ 𝑩𝒐𝒕 Đ𝒄 Đ𝒊𝒆̂̀𝒖 𝑯𝒂̀𝒏𝒉 𝑩𝒚 ミ★𝐂𝐇𝐔𝐍𝐆 𝐃𝐀̣𝐓★彡✔\n🌺𝑪𝒉𝒖́𝒄 𝑩𝒂̣𝒏 𝑺𝒂̀𝒊 𝑩𝒐𝒕 𝑽𝒖𝒊 𝑽𝒆̉ ❤`, threadID);
 		}); 
 	}
 	else {
